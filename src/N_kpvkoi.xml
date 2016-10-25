@@ -1,0 +1,9877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="/Users/rueter/main/gtcore/schemas/fiu-dict-schema.xsd" xml:lang="kpv"> <lics xml:space="preserve"> <lic xml:lang="en">This code is made available under a Creative Commons Attribution license <a>http://creativecommons.org/licenses/by/3.0/no/deed.en</a>.
+ You are free to copy, distribute and adapt the work, as long as you always give
+ proper attribution using the attribution text below.
+ For the full license text, see the link above.</lic> <ref>The material is based on the following Перым-коми гижӧд кыв compiled in Syktyvkar, Komi Repulic:
+
+Е.А. Цыпанов: Перым-коми гижӧд кыв
+
+transducers by Giellatekno at UiT and members of the language communities. 
+ Source code available at <a>https://victorio.uit.no/langtech/trunk/</a>.</ref>
+     <sourcenote>The material was prepared for electronic publication by Evgeni Tsypanov and Jack Rueter.
+ This is NOT a fully styled and published dictionary.
+ As such it can and will contain unfinished entries, unpublished entries, 
+ entries with objectionable translations, etc. If you find any errors 
+ or want to add more words, download the file, edit it, and send it back to <a>mailto:giellatekno@hum.uit.no</a>.
+     </sourcenote> </lics>
+<e>
+   <lg>
+     <l pos="N"> октас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">октас</t>
+     </tg>
+   </mg>
+</e>
+
+
+<e>
+   <lg>
+     <l pos="N">абу гортса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрутка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">абу шома брага</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вильдас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">аймортулов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мужикпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">амысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ральник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пиньяй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">арава</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ас вурӧм тяпи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чупошки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">аски</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ашын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бабаюр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабапель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бадь пу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">волька</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">баг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бакамач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енгым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">баля</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">балябӧж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрбӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бать</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ай</t>
+       <t pos="N">тятю</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">батӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урбӧж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бедь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">батӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бек</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кадж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бекар (сыктыв вожын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бекӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">берин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">понпутш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">би кинь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бичир</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">би кывъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бикыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">билӧн йывъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бикыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">больгысь айморт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">баюн</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бон (сыктыв вожын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">боргысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бульчика</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">борщевик</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">паськыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">брага</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">брӧд ва.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">люзьва</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бузгысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бульчика</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">буланӧй вӧвлӧн ним</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">буланко</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бур морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кодя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бур паськӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мӧдӧтчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бур тӧдса ныв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">модзанка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">быдмӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">быдмас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бӧр воӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бертӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бӧрдысь детинка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">базан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бӧрдӧдчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">герйӧтісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бӧрдӧдчӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">герйӧтлӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">бӧрысь ветлысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧрбӧж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ва лилия</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вачача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ваболь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">поль</t>
+       <t pos="N">швав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вавывса пӧтка (юсь, дзодзӧг, чӧж)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вапӧтка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вад</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">арай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">важ кӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отопки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">валуй (тшак ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ниндуль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">васа</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ваись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ватага</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вевтас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вевттьӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вевтӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вежалун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кресення</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вежӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ылӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вердысь-удысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвердісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вердысь-юкталысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвердісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вермытӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отопки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">верӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">айка</t>
+       <t pos="N">жӧник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">верӧса нывбабалӧн кӧса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">балича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">верӧспу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жӧник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">весалӧм шабді шӧртысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сӧдзовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">весьлун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">буддень</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ветьӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">видзӧдчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">учкись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">видчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виж жонь (лэбач ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧрымкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вижъюр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабапель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">визь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыров</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">висьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пӧрӧс</t>
+       <t pos="N">шогӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вич</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">айним</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вичко</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вичку</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">виччысьтӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тюк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">внук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧгапи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вог</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">балямош</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вогыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сюг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">водз дӧра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">запон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">водзир</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ковпинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧтростель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">войдӧрлун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">удерлун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">войдӧрлун (войвывса сёрнисикаъясысь)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">одёрлун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воййыв (турун ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧй</t>
+       <t pos="N">вӧйтурун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">войт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воть</t>
+       <t pos="N">дзуль</t>
+       <t pos="N">пать</t>
+       <t pos="N">тёп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">войтыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отир</t>
+       <t pos="N">увтыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">войшӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ойшӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вок</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">волокуша.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няридз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вом дор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тырп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вон</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧн</t>
+       <t pos="N">ӧнас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вон ветьӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ворга (юлӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вороп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ороп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ворсанлӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">базан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вос</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧс</t>
+       <t pos="N">ӧсӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воськов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">оськӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">восьса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">осьта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вося кӧдзӧмтор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ося</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вот сэтӧн.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вону</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вотчысьяслы сиӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тырдоз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вошӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧшӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">воӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">локтӧмовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вуж додь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няридз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вурыс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыров</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вывті кӧдзыд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пот кӧдзыд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вый</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ви</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вылыс паськӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гуня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вылыс эжӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вевтӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">етш</t>
+       <t pos="N">мыла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вынтӧммӧм му</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вышка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голобнича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧнь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вонь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пожума</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧр гумм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пикан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧр пасьта</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">постать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧраин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧръя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрпаяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зверьпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрпункт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрзаптан пункт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">висьӧв</t>
+       <t pos="N">вӧрись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрса вишня</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">катшальӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрса гулю</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрдуді</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрса чож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрутка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрын весалӧмин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрын ин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧрын неыджыд кушин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кулига</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧскресенньӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кресення</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧтлысьысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧрбӧж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧчтӧм удж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шутём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">вӧччан паськӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мӧдӧтчан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гаг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">льӧмтой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гадюка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">галанка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">калег</t>
+       <t pos="N">калиг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гальки</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">галесник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">галя из</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">галесник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гармошкалӧн басъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">базан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вешъян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гез (пемӧсъяслы голяас ӧшӧдӧны)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧйтан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">герчкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пытькан кай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гетшкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пытькан кай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гижӧдтор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сераку</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">голя петук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кавтык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">горш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кавтык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">град выв пуктас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">карч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">град йӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">карчйӧр</t>
+       <t pos="N">огородеч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">град йӧр (сёрнисикасъясысь кыв)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">огорейч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">грамота</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">серакутш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гудралӧм кӧрым</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">соровтас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гудрас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">соровтас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гулю</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дуді</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гумла</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гуна</t>
+       <t pos="N">долонь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гуяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">креста кар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гы йыв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ваныр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гымлӧн лыйыштӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чарньӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гымыштӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чарньӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гырысь утка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чеж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гыч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тыпыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гыӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кижа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧбӧч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">джоджув</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧг вундысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧгьялісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧгинь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧгьялісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧгрӧс вевт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧглян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧгыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧглян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гублян</t>
+       <t pos="N">ярка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧртӧм му</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шутём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧрӧм вылӧ ласьтӧм кушин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧснеч (челядь кывйын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧтыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">инь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">гӧшкӧвик</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горшковик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дама</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">инька</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дефис</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырӧлок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">джоджын гӧбӧч ӧдзӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">западня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзебсясьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">куру</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзеп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">куру</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзодзув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзӧдзыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзодзӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзодзог</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзодзӧгпи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сили</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзопкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дзугсьӧм юрси</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шпын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дикар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бавча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дикӧй вишня</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">катшальӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зубыт</t>
+       <t pos="N">кырч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">доймалӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырчча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дойман</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зубыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">доймысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зубыт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">домӧт</t>
+       <t pos="N">сермӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дона гоб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">коровяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">друг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тюк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дрӧчитчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жека</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дрӧчитчысь (зон, айморт)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">крятун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дулалӧм.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">люммӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дульсмунӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">люммӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дуркпоз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧдчуман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дыр сулалӧм гортса сур</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сюромка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дыш (эньморт, ныв, нывка)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дӧчка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дыш пон</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дышкуль</t>
+       <t pos="N">лёгостай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дыш рунь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дышкуль</t>
+       <t pos="N">лёгостай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дявӧл</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дяв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дявӧллӧн пу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дявпу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дӧраысь вурӧм.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дӧраовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дӧраысь серӧдӧм сарапан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дубас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дӧрӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧрнӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">дӧрӧм-гач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧрнӧс-вешъян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">еджыд гоб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">коровяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ен кай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыбшар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">енгаг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енӧшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">енмеж (лэбач ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нюрбаран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жер пинь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">згальник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жерех</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жерег</t>
+       <t pos="N">жерех</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">жуг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йики</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">забор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зад</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кадж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">запанки</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вачача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">збой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">удав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">збыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">быль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">збыльтор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">быль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зимогор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бадзор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">змей</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зонпосни</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">челядьпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зыбун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">арай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зына пу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сусапу</t>
+       <t pos="N">сюрипу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зырым бедь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пикан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зьвер чукӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зверьпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">зэв сук вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чашъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">иволга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзулимкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ид шыдӧса шыд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шӧмашыд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">изйысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">изйысь вӧчӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">изки</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ильм (пу ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ильӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">исерга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пелькытш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">истӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">спича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ичӧт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пикан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ичӧт коз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">понуль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ичӧт чери</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нюгыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йи сыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йижоль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йи сыр.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йыжоль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йи чунь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йижоль</t>
+       <t pos="N">йыжоль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йинёнь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йижоль</t>
+       <t pos="N">йыжоль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йитӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йитсьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йылӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">челядьпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧв пинь (кагаяслӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гичпинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">швав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отир</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧзкӧд лӧсявтӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сюра мӧс</t>
+       <t pos="N">тӧртӧм мӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧзт чукӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">утуга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧла вижъюр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабапель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧла турун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вирвужъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧлӧга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">говк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шышыбар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧн юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шышыбар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрмӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧрапи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрмӧспиян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧрдан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гумалан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">йӧртӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧртӧт</t>
+       <t pos="N">сусек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кага видзысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пестун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кайпи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тип</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кайяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кайпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">картупель</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">картов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">картупеля шаньга</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кулиг</t>
+       <t pos="N">кулик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кассялан туй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыров</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">качча</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧньӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">квайтпалич</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пытькан кай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кер пом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">джек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">керка йӧрӧ вольсалӧм плакаяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">поспу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">керка кутысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гортвидзись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">керъясысь вӧчӧм костъястӧм потшӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">заплот</t>
+       <t pos="N">заплод</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ки пыдӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">долонь</t>
+       <t pos="N">кырым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киподтуй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кипод</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киподтуйтӧм уджалысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ныртӧм сизь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киров обласьтын афанасьевскӧй районын олысь комиясӧс нимтӧм-шуӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзуздяк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кисель (вӧчӧны нырӧм вотӧсысь чуж вылын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лязгай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">киссьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отопки</t>
+       <t pos="N">рукйӧсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клещ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">льӧмтой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клык (мортлӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ковпинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">клятва</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ёрд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">князь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">окся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ковтӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">неколан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">код</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кодыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">код вылын позьӧ пукавны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">джек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коддзьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кодыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодзув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧдзыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодзувкот</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧдзыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодзувкоткар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧдзывкар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коді быттьӧкӧ видзӧ йӧзӧс висьӧмъясысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзуркби</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодӧс вундысь босьтӧ вундігас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">постать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодӧс потшӧма скӧтлы йирсьыны</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сванка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кодӧс пӧрӧдчысь пӧрӧдӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">постать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">козъя вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧзъя</t>
+       <t pos="N">тэлля</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">козъяин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тэлля</t>
+       <t pos="N">тэлляин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кок пыдӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кокпята</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кокньыд мывкыда морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дженыт мывкыда</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">колип</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыбшар</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">коль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голи</t>
+       <t pos="N">коли</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кольк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кольть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кольмӧдан дук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кольмӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корся</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">корось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">коколь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корӧм (гӧститны, пызан сайӧ)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">рочасьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">корӧсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">корось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кослун кадколаст</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыквидзкос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кост</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">колас</t>
+       <t pos="N">ылына</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">косясьысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черпетух</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">косясьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">рукйӧсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кратайтчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кроншнеп (лэбач ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вапетушок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">крут керӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">крутик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кудымкарсаяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кудымкарчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кудымкарын олысьяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кудымкарчи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кужтӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ныртӧм сизь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кужӧмлун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кипод</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куз турун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пистик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пешорка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кузь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">висьӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куйӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">назём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кукань кодь морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кын курӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кулакулов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кулаккельӧп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кулакъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">богатте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кулакъяс дор сулалысьяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кулаккельӧп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">куль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ваись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кульчунь (иньваса сёрниын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чудчунь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кулӧмъяссянь накажитӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мыжа</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кумган</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кунган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">курӧгпи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тип</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кухня</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ком</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кушин (му вылын, вӧрын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">куштӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыв сетӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ёрд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кывйӧ сетчытӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тӧртӧм мӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыддза вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыдзза</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыддзаин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыдзза</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыдъя коми</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">идъя-зӧръя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыдъя роч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">идъя-зӧръя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыз морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">яймек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыз путкыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">яймек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыз, абу визув морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">абыз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыйӧдчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">учкись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кык видз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыквидзкос</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыккокйыв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сточма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кылӧдчан пункт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧркылӧтан пункт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кынӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">крутик</t>
+       <t pos="N">кырас</t>
+       <t pos="N">тырка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыркӧтш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кырсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кач</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кырӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кытш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧглян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыштӧм кольк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голыш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кыӧм кепысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">испотка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧбрег</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гу</t>
+       <t pos="N">гуяма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧйтан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧдзан кӧйдыс вылӧ доз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧдзсянкуд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧзяин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гортвидзись</t>
+       <t pos="N">юрвердісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧиншать</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урбӧж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧйдыс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧдзыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧкӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧктоин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пистик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧлысьвывса сетантор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">козин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧмкот</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧмкӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧні пуясысь кульӧма кырсьсӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧр ни гос</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шӧмтӧм нянь кодь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧртвомтӧм дом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырдом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧртӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">домӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧса (эньмортъяслӧн, нывкаяслӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чикись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧч вылӧ лэч (войвывса сёрнисикасъясын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пильӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧч сьӧлӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">курӧг сьӧлӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">кӧчамач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енгым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лачатӧм сьӧкыд олӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сир-ньылӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лешак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">висьӧв</t>
+       <t pos="N">вӧрдядь</t>
+       <t pos="N">чуд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ловъя би</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзуркби</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">локтӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бертӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">луд вылын потшӧмин (куканьясӧс йирсьӧдны)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">деник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лудан висьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гыжна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лудік турун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ошсьӧктан</t>
+       <t pos="N">ошсьӧктантурун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лудӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гыжна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лук юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">грез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лукйысь да солысь вӧчӧм сёян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лукасов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">коска</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лыддьӧдлӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">герйӧтлӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лымйӧн тыртӧминъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">уброд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лымув дзоридз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лымдорчача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лысьтысьысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мӧсвысьтісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лысьтысян аппарат</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чилькӧтчан аппарат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лысӧм рака</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧжӧм рака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лэбач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лэбачлӧн гырысь гӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бордтыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лэбачьяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кайпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лягуша</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лягай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ляпа (чери ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лёш</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лёк дук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лёкгаг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзӧдзыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧгалысь.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дузісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧмӧсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырчча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧск</t>
+       <t pos="N">голобнича</t>
+       <t pos="N">гӧбнича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧсавтӧм гыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">турун мешӧк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">лӧсавтӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">турун мешӧк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ма вылын сулӧдӧм брага</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сюромка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мазі</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">балямош</t>
+       <t pos="N">мош</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мазі видзысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мошвӧдитісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мазі видзӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мошвӧдитӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мазі поз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мачурка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">майтӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">матег</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">малиновка лэбач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧмидзкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мампас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мампас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">маръямоль (быдмӧг ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гундӧрчача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">марьин корень дзоридз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вирвужъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">масленник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">маслянка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">масько</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">маслянка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">масьльӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">маслянка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">месай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гортвидзись</t>
+       <t pos="N">юрвердісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мешӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">козичка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мисьтӧм чужӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мича ныв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">малинтусь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">миян войвылын оз ов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧмидзкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">моз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нёж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">моздор пес</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">беремё</t>
+       <t pos="N">беремя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гачег</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">висьӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">морда</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мотив.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">проглаз</t>
+       <t pos="N">проглас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мошенник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бадзор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">му шыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзимшыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">музыка шылад</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">проглаз</t>
+       <t pos="N">проглас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мулӧн пасьта</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">постать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мусса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзулинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мусук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзулинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мыгӧр тэчас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">корпось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мыйкӧ вевттян дӧра</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вевтӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мыльк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мыш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сивилён</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мышку</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сивилён</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мӧс видзан ферма</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мӧс ферма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мӧс сітув гаг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дбруньгаг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">мӧслӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">паськыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">намордник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырдом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">намыр.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нямыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">некыдзи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">неыджыд керӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">неыджыд кузов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зобня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">неыджыд тӧвныр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тӧвчик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">неыджыд чышъян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">потшшалок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нин ветьӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нинкӧм кӧрталан кӧв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вонь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ниртӧм помысь пестӧм би</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзуркби</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нывбаба</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">инь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нывбаба паськӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧрнӧс-дубас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нывъёрт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">модз</t>
+       <t pos="N">модзанка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ныр розь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырпыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ныр-вом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ньыв пу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">понуль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ньывк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">покат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ньӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шать</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ньӧти</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воть</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нэриник морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лязгай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нюм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шынньӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нюраин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">арай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няйт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ляк</t>
+       <t pos="N">сирбус</t>
+       <t pos="N">сэрп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няйт лоысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧдчуман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няйт чут</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ляк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няйтпоз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧдчуман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нямӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧжӧм рака</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няньшом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧвдас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нярборд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кушборд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нярбордъя шыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кушборд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">няргысь (кага йылысь)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жека</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нёнь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нёнь пом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">нёнь юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">овмӧдӧмин (сикт, кар)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">селитьба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">овтӧм керка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">озырулов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">богатте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">озыръяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">богатте</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ойдлана видз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сванка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">олӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">олан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">омра пӧлян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туригум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">отсӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отсӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ошйысьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пиньласьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ошльӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сусапу</t>
+       <t pos="N">сюрипу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ошсэтӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сусапу</t>
+       <t pos="N">сюрипу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пажын</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">павжун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пакет</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">козичка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">палич</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">беремё</t>
+       <t pos="N">беремя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пальто</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гуня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">паметь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвеж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">папоротник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ошсьӧктан</t>
+       <t pos="N">ошсьӧктантурун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">партук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">запон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач водз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горбиодз</t>
+       <t pos="N">горӧдз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач вом дор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горбиодз</t>
+       <t pos="N">горӧдз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач гырничьяс босьтан ветьӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горшковик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач лыс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горлыс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач под</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горпод</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач пӧдан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горпӧдан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пач сай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горсай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пачсайса ин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горсай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">паччӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">горвыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">паччӧр да пӧлать костын пос джодж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧбеч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пашкыр юрси</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шпын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пеж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сэрп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пелысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">рябинпу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пельса</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧньӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пельтӧ чепӧльтан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бимороз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пельӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">угов</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">перк (лэбач ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">колиперк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пестер</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зобня</t>
+       <t pos="N">пешорка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">песчанка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нюгыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пинь ан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пиньяй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пиньӧ пырысь морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черпетух</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пинялӧн вож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">улык</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">письмӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сераку</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пиян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зонпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пияна чипан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабука</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">плеть чери</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дранеч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">плут</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бадзор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">побув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">подснежник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лымдорчача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пожӧма яг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пожума</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полокалӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабашорика</t>
+       <t pos="N">бабашӧрика</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полысь морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">курӧг сьӧлӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">полӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жыга</t>
+       <t pos="N">опас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">помӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дӧмӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">понпуш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енгым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">понтшак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кульбук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пором</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дӧмӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пос</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">поспу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пос тшупӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">поспу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">посни картупель</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзолян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">потшӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">приданнӧй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">козин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прост лун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">буддень</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">прӧсека</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">грань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пу гӧрлӧн йыв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ральник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пу мӧлӧт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кианка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пу сёйысь гаг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пугаг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пудпас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мампас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пуркйӧм (тшын, бус йылысь сёрнитігӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">путрик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пучӧй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жӧвгаг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пывсянын вылын джодж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">полок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пьяник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кодуль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧдӧнча</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">подойница</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧжсьысь чипан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабука</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧкат</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">покат</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧльӧн/пӧчӧн шуысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧгапи</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧлян</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зорагум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧлян (турун)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туригум</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧрысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отопки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧрӧм пуяса ин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">выскыръяін</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧрӧма</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">выскыръяін</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧтка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кайпӧтка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧтка кыян лэч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">веж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">пӧчинӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">отруб</t>
+       <t pos="N">селитьба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сорд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рожа</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">розь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">осьта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">розя</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">осьта</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">роч</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">потшшалок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рочӧн бекас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нюрбаран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рочӧн бузина</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сусапу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рочӧн кӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вильдас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рочӧн пескорой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нюгыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рочӧн полынь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урбӧж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рукйӧсь паськӧма</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">рукйӧсь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рушку</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">рӧштво</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">розосво</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сапӧг вурысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чеботарь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сартасувса неыджыд вор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">биӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">саысь вӧчӧм чернила</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сава</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">свиристель лэбач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧвбӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">си</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тылӧп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сиа пож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сипож</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сизь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сийӧс-заврд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сийӧс-сермӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сийӧс-кӧлуй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сийӧс-сермӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сикас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сикт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">посад</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сикӧтш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пристеж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сикӧтш моль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дон</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">син</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синбур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">син аддзан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синкага</t>
+       <t pos="N">синчача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">син бугыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синкага</t>
+       <t pos="N">синчача</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">син лап</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синлоп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">синё рысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сингусялана</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сир</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сирпинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скачӧн</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сточма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сквореч поз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кайпоз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧралысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дузісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пода</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧт видзысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">подавӧдитісь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧт видзӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">подавӧдитӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧт йирсьӧдны туяна му</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">скӧтлы юктӧдантор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">слабиник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лязгай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">со</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вону</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">содз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырым</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сой гум (гырддзаысь улынджык)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кисой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сорас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">соровтас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сорстӧм петук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черпетух</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сорт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сортӧм гортса сур</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сёрва</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">соч.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сплавпункт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧркылӧтан пункт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">стать</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">корпось</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">судзсьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тыр-бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сук вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзибъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сук вӧрын нӧрыс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзиб</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сулалан ваа увтасін</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вапукӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сулея юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голюк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">суспу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сыспу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сыри-летки паськӧма морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бырӧм вешьян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сырчик</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пичик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьвист</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бадзор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьылі</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сиви</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьылі тшуп</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сиви</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд вой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пыдой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд войнас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пыдой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд вӧр шӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзиб</t>
+       <t pos="N">дзибъяин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд сизь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тырка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд тополь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыржапу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧд-курыд олӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сир-ньылӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сьӧкыд ун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыз он</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сэсь войдӧрлун (войвывса сёрнисикасъясын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сэсьодёрлун</t>
+       <t pos="N">сэсьудёрлун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сюв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сю</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сюзь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тупка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сюмӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бан</t>
+       <t pos="N">симӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сюрса лы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сюрги</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сюрӧстӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кын курӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сяквар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">згальник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сямтӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кын курӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сяр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧглян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёйны позьтӧм тшак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кульбук</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">седова</t>
+       <t pos="N">седола</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёркни</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сёртни</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёрни</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">басни</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёрнитны радейтысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">баюн</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёрнитны радейтысь эньморт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">баюння</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёртас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сёянін</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ком</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сӧвмӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зормӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сӧлӧть ва</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">люзьва</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">сӧнік</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сӧнӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">табурет</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">джек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тасьті</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бекӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тасьті-пань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">паньбекӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тешитчысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">згальник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тоин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">масьтан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тола</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">стола</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">толаяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">уброд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">том йӧз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">томпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">томиник рас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шаття</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">торйӧн олӧм-вылӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">торъялӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">трачкӧдчысь кӧдзыд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бимороз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">трудодень.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">уджлун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">туйвеж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">креста туй</t>
+       <t pos="N">ростань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тулан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тулыснас сылігӧн лым да няйт сора инъяс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зажор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тупыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тшакыль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">турипув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туримоль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">турун юр кыскалан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">няридз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">туруна ичӧтик эрд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">лудовка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">туруна увтасін</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нёп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">турӧб</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туроп</t>
+       <t pos="N">турӧп</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тусяпу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">верӧс</t>
+       <t pos="N">верӧсовӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшайпод</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чупошки</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшака шыд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">губнича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшаканянь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тшаковӧй пирӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшаква</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">губнича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшука</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сирпинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тшыкӧдӧм сынӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыкӧла</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">арай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыла</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">октас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыла му</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">воль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыртӧмин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">куштӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тыш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пессьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тышкасьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пессьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тюрзан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пиксан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тяпкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">масьтан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тёпкан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тірибобӧ</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бабыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тӧвнырӧн пӧрӧдӧм пу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">выскыр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тӧлклун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ылӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тӧлктӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кын курӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">тӧлктӧм морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ныртӧм сизь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ув</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧтростель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ув кералысь (вӧр пӧрӧдігӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">увсуййись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">увтасін</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ярка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧй</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ужал</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">удав</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уллюнъя сёян лун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ульлун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">улыс кум</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гуяма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уль видз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">арай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">улӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">джек</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">он</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уна йӧз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">утуга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">упри</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голов</t>
+       <t pos="N">пескан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уприсын (чери ним)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голов</t>
+       <t pos="N">пескан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">урбӧж турун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пистик</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">уртшак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синявка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">урӧдпоз</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧдчуман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">утка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрутка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чад</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кольмӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чад дук</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кольмӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чаль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧтростель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чардак</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧск</t>
+       <t pos="N">голобнича</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чардби</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вирд(ыш)</t>
+       <t pos="N">вирдалӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">часі</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">часы</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">челядь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">челядьпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">челядь чукӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">урма</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">челядьлы козин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чинь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чери кыян места</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черикыян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чери кыянін</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черикыян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чери сикас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жерег</t>
+       <t pos="N">жерех</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чибльӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гумалан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чикыш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">пистӧг</t>
+       <t pos="N">чикись</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чипанпи</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тип</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чипсан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">зорагум</t>
+       <t pos="N">пиксан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чипсысь кай</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чирк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енкӧбывка</t>
+       <t pos="N">кӧбылка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чож</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чеж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чой</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сой</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кола</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чужӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырӧм</t>
+       <t pos="N">шогмӧм</t>
+       <t pos="N">шогмӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чужӧмбан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">синбан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чукыр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кыров</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чукӧр (лунвыв сёрнисикасъясын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">беремё</t>
+       <t pos="N">беремя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чукӧрттӧм турун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шутём</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чумпель</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гумалан</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чунь лы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">козонок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чуш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">нырдом</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чёрточка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кырӧлок</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чӧд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">сьӧдъягӧд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чӧлнӧк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">суса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чӧрт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дяв</t>
+       <t pos="N">чуд</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чӧс туй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">октас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">чӧснӧк юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">грез</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шапка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвот</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шар</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧглян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шашаритчан кыв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">паськыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шобді</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шогді</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шог</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шогӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шойданник</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">бырӧм вешьян</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шойна</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">креста кар</t>
+       <t pos="N">могильник</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шойччӧг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шоччӧт</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шом</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">майӧв</t>
+       <t pos="N">шӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шома</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шомань</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тшӧтшкӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шоммӧм йӧв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жодза йӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шоныдін.</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">некӧдзытін</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шоча быдмысь вӧра нюраин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ляга</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">штоп юр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">голюк</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шуам</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">паськыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шузьӧдчан</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">майӧв</t>
+       <t pos="N">шӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шыбитӧм му</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">изӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шыблалан висьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кудоба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шыблас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чашъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шыран (раклӧн)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шем</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">шӧвк</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ермӧг</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ывла</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧтӧр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ыдждалысь ныв</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">крятуння</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ыджыд пач</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гор</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ыждалысь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">жека</t>
+       <t pos="N">крятун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ыжнёнь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыжман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ыжпи (кызвынсӧ энь баля)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзель</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ылна</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ылына</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ылі вӧрын ин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзибъяин</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ылі сук вӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзиб</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ырӧш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вильдас</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ырӧш вылӧ сёйысь кувшин</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кунган</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эбӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">етш</t>
+       <t pos="N">мыла</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эжа</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вильса</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эмлун</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">тыр-бур</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">энь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">мампӧв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">энь порсь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дӧчка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">энька</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ань</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">энька (войвыв сёрнисикасъясысь)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">матшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">энькаа-моня</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">аня-моня</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эньлов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">модзанка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эньморт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">инька</t>
+       <t pos="N">крятуння</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эньмортулов</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">инькапӧлӧс</t>
+       <t pos="N">иньпӧлӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">эрд</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кулига</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юква</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">черива</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юква (войвывса сёрнисикасъясын)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шерба</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юкмӧс (войвывса сёрнисикасъясысь)</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧшымӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юнчери</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дранеч</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юр пыдӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвоман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юрчут</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвоман</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юрӧ пуктантор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">юрвот</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юысь морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кодуль</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">юӧр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ёр</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">яг-морт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">вӧрдядь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ярӧвӧй</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ося</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёг</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">чашъя</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёдіюр</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">кӧрымкай</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёкмыль</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">коколь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёльдӧг тшаклӧн ӧти сикас</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">гӧстшак</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёма</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ягишна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёма-баба</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ягишна</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёна сулӧдӧм сур</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">туран</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёрт</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">модз</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёртасьӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йитсьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёрӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ёрдӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ёсьбӧж</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">дзӧдзыв</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧбед</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">павжун</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧдзӧс</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыбӧс</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧксы</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">окся</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧмидз тусь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">малинтусь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧржипу</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ыржапу</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧтитор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧтнёж</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧттӧр ни мӧдтор</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">шӧмтӧм нянь кодь</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧтувтчӧм</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">йитсьӧм</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧш</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧшка</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧшинь</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">ӧшын</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧшинь клянича</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">оконча</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ӧшкамӧшка</l>
+     <stg> <st/>
+     </stg>
+   </lg>
+   <mg>
+     <tg xml:lang="koi">
+       <t pos="N">енӧшка</t>
+     </tg>
+   </mg>
+</e>
+</r>
